@@ -11,9 +11,7 @@ import Foundation
 extension ManagerSpecialLayout {
     
     struct Endpoint {
-        
         static let url = URL(string: "https://raw.githubusercontent.com/Swiftly-Systems/code-exercise-ios/master/backup")
-        
     }
     
 }
