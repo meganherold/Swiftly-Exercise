@@ -8,7 +8,8 @@ Clone and run on a simulator or device using Xcode. No Cocoa-pods or Carthage Up
 
 ## Technology
 * Written in Swift 5
-* 100% programmatic layout with UIKit - no storyboards or nibs
+* 100% programmatic layout with `UIKit` - no storyboards or nibs
+* Models using `Codable`
 * Basic model initialization unit tests
 
 ## Features
